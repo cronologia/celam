@@ -1,0 +1,126 @@
+{
+  "generatedBy": "scripts/archive-refs.js",
+  "updatedAt": "2026-07-30",
+  "snapshots": {
+    "https://cebitepal.celam.org/nosotros/": {
+      "refId": "cebitepal",
+      "archiveUrl": "https://web.archive.org/web/20260422153548/https://cebitepal.celam.org/nosotros/",
+      "timestamp": "20260422153548",
+      "checkedAt": "2026-07-30"
+    },
+    "https://celam.org/presidencia/": {
+      "refId": "celam-presidencia",
+      "archiveUrl": "https://web.archive.org/web/20250909081133/https://celam.org/presidencia/",
+      "timestamp": "20250909081133",
+      "checkedAt": "2026-07-30"
+    },
+    "https://celam.org/proceso-de-renovacion-y-reestructuracion/": {
+      "refId": "celam-renovacion",
+      "archiveUrl": "https://web.archive.org/web/20251007021446/https://celam.org/proceso-de-renovacion-y-reestructuracion/",
+      "timestamp": "20251007021446",
+      "checkedAt": "2026-07-30"
+    },
+    "https://celam.org/secretaria-general/": {
+      "refId": "celam-secretaria",
+      "archiveUrl": "https://web.archive.org/web/20260424060611/https://celam.org/secretaria-general/",
+      "timestamp": "20260424060611",
+      "checkedAt": "2026-07-30"
+    },
+    "https://en.wikipedia.org/wiki/Episcopal_Conference_of_Latin_America": {
+      "refId": "wikipedia-en",
+      "archiveUrl": "https://web.archive.org/web/20260310185251/https://en.wikipedia.org/wiki/Episcopal_Conference_of_Latin_America",
+      "timestamp": "20260310185251",
+      "checkedAt": "2026-07-30"
+    },
+    "https://en.wikipedia.org/wiki/Pontifical_Commission_for_Latin_America": {
+      "refId": "wikipedia-cal",
+      "archiveUrl": "https://web.archive.org/web/20260704024247/https://en.wikipedia.org/wiki/Pontifical_Commission_for_Latin_America",
+      "timestamp": "20260704024247",
+      "checkedAt": "2026-07-30"
+    },
+    "https://es.wikipedia.org/wiki/Confederaci%C3%B3n_Latinoamericana_y_Caribe%C3%B1a_de_Religiosos": {
+      "refId": "wikipedia-clar",
+      "archiveUrl": "https://web.archive.org/web/20250604183345/https://es.wikipedia.org/wiki/Confederaci%C3%B3n_Latinoamericana_y_Caribe%C3%B1a_de_Religiosos",
+      "timestamp": "20250604183345",
+      "checkedAt": "2026-07-30"
+    },
+    "https://iglesia.org.pe/2025/05/30/peru-presente-en-la-40-a-asamblea-del-celam-70-anos-sembrando-esperanza-en-america-latina/": {
+      "refId": "iglesia-pe-40",
+      "archiveUrl": "https://web.archive.org/web/20260517141638/https://iglesia.org.pe/2025/05/30/peru-presente-en-la-40-a-asamblea-del-celam-70-anos-sembrando-esperanza-en-america-latina/",
+      "timestamp": "20260517141638",
+      "checkedAt": "2026-07-30"
+    },
+    "https://prensacelam.org/2021/10/02/documento-de-renovacion-y-reestructuracion-del-celam-un-proceso-permanente": {
+      "refId": "prensacelam-renovacion",
+      "archiveUrl": "https://web.archive.org/web/20250917212950/https://prensacelam.org/2021/10/02/documento-de-renovacion-y-reestructuracion-del-celam-un-proceso-permanente/",
+      "timestamp": "20250917212950",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.americalatina.va/content/dam/americalatina/Documents/12)%20Aparecida%202007.pdf": {
+      "refId": "aparecida-doc",
+      "archiveUrl": "https://web.archive.org/web/20260508115158/https://www.americalatina.va/content/dam/americalatina/Documents/12)%20Aparecida%202007.pdf",
+      "timestamp": "20260508115158",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.consolataamerica.org/es/el-papa-francisco-aprueba-los-nuevos-estatutos-del-celam/": {
+      "refId": "consolata-estatutos",
+      "archiveUrl": "https://web.archive.org/web/20221017133805/https://www.consolataamerica.org/es/el-papa-francisco-aprueba-los-nuevos-estatutos-del-celam/",
+      "timestamp": "20221017133805",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/consejo-episcopal-latinoamericano-celam": {
+      "refId": "encyclopedia-celam",
+      "archiveUrl": "https://web.archive.org/web/20251017120432/https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/consejo-episcopal-latinoamericano-celam",
+      "timestamp": "20251017120432",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.vatican.va/content/benedict-xvi/en/speeches/2007/may/documents/hf_ben-xvi_spe_20070513_conference-aparecida.html": {
+      "refId": "vatican-aparecida",
+      "archiveUrl": "https://web.archive.org/web/20260530075205/https://www.vatican.va/content/benedict-xvi/en/speeches/2007/may/documents/hf_ben-xvi_spe_20070513_conference-aparecida.html",
+      "timestamp": "20260530075205",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.vatican.va/content/john-paul-ii/en/speeches/1979/january/documents/hf_jp-ii_spe_19790128_messico-puebla-episc-latam.html": {
+      "refId": "vatican-puebla",
+      "archiveUrl": "https://web.archive.org/web/20260511062457/https://www.vatican.va/content/john-paul-ii/en/speeches/1979/january/documents/hf_jp-ii_spe_19790128_messico-puebla-episc-latam.html",
+      "timestamp": "20260511062457",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.vatican.va/content/john-paul-ii/en/travels/1992/travels/documents/trav_santo-domingo-1992.html": {
+      "refId": "vatican-santodomingo",
+      "archiveUrl": "https://web.archive.org/web/20260214115124/https://www.vatican.va/content/john-paul-ii/en/travels/1992/travels/documents/trav_santo-domingo-1992.html",
+      "timestamp": "20260214115124",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.vatican.va/content/paul-vi/en/travels/documents/bogota.html": {
+      "refId": "vatican-bogota",
+      "archiveUrl": "https://web.archive.org/web/20260718170501/https://www.vatican.va/content/paul-vi/en/travels/documents/bogota.html",
+      "timestamp": "20260718170501",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.vaticannews.va/en/church/news/2023-05/celam-bishops-elect-new-president-for-the-four-year-term-2023-20.html": {
+      "refId": "vaticannews-2023",
+      "archiveUrl": "https://web.archive.org/web/20250430010537/https://www.vaticannews.va/en/church/news/2023-05/celam-bishops-elect-new-president-for-the-four-year-term-2023-20.html",
+      "timestamp": "20250430010537",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.vaticannews.va/es/iglesia/news/2021-07/celam-encomienda-proceso-renovacion-asamblea-eclesial-virgen.html": {
+      "refId": "vaticannews-asamblea",
+      "archiveUrl": "https://web.archive.org/web/20250521133557/https://www.vaticannews.va/es/iglesia/news/2021-07/celam-encomienda-proceso-renovacion-asamblea-eclesial-virgen.html",
+      "timestamp": "20250521133557",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.vaticannews.va/es/papa/news/2025-05/el-papa-leon-xiv-recibe-la-presidencia-del-celam.html": {
+      "refId": "vaticannews-leo",
+      "archiveUrl": "https://web.archive.org/web/20250727134842/https://www.vaticannews.va/es/papa/news/2025-05/el-papa-leon-xiv-recibe-la-presidencia-del-celam.html",
+      "timestamp": "20250727134842",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.vidanuevadigital.com/2025/09/16/leon-xiv-recibe-a-los-obispos-del-celam-y-los-anima-a-seguir-impulsando-el-camino-sinodal/": {
+      "refId": "vidanueva-leo",
+      "archiveUrl": "https://web.archive.org/web/20251006022947/https://www.vidanuevadigital.com/2025/09/16/leon-xiv-recibe-a-los-obispos-del-celam-y-los-anima-a-seguir-impulsando-el-camino-sinodal/",
+      "timestamp": "20251006022947",
+      "checkedAt": "2026-07-30"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "generatedBy": "scripts/archive-refs.js",
-  "updatedAt": "2026-07-30",
+  "updatedAt": "2026-08-03",
   "snapshots": {
     "https://cebitepal.celam.org/nosotros/": {
       "refId": "cebitepal",
@@ -44,6 +44,18 @@
       "timestamp": "20250604183345",
       "checkedAt": "2026-07-30"
     },
+    "https://es.wikipedia.org/wiki/Consejo_Episcopal_Latinoamericano": {
+      "refId": "wikipedia-es",
+      "archiveUrl": "https://web.archive.org/web/20260312112419/https://es.wikipedia.org/wiki/Consejo_Episcopal_Latinoamericano",
+      "timestamp": "20260312112419",
+      "checkedAt": "2026-08-03"
+    },
+    "https://gcatholic.org/dioceses/org/conference-305": {
+      "refId": "gcatholic",
+      "archiveUrl": "https://web.archive.org/web/20260714131355/https://gcatholic.org/dioceses/org/conference-305",
+      "timestamp": "20260714131355",
+      "checkedAt": "2026-08-03"
+    },
     "https://iglesia.org.pe/2025/05/30/peru-presente-en-la-40-a-asamblea-del-celam-70-anos-sembrando-esperanza-en-america-latina/": {
       "refId": "iglesia-pe-40",
       "archiveUrl": "https://web.archive.org/web/20260517141638/https://iglesia.org.pe/2025/05/30/peru-presente-en-la-40-a-asamblea-del-celam-70-anos-sembrando-esperanza-en-america-latina/",
@@ -68,11 +80,23 @@
       "timestamp": "20221017133805",
       "checkedAt": "2026-07-30"
     },
+    "https://www.dhial.org/diccionario/index.php/CONSEJO_EPISCOPAL_LATINOAMERICANO_(CELAM)": {
+      "refId": "dhial",
+      "archiveUrl": "https://web.archive.org/web/20260803100450/https://www.dhial.org/diccionario/index.php/CONSEJO_EPISCOPAL_LATINOAMERICANO_(CELAM)",
+      "timestamp": "20260803100450",
+      "checkedAt": "2026-08-03"
+    },
     "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/consejo-episcopal-latinoamericano-celam": {
       "refId": "encyclopedia-celam",
       "archiveUrl": "https://web.archive.org/web/20251017120432/https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/consejo-episcopal-latinoamericano-celam",
       "timestamp": "20251017120432",
       "checkedAt": "2026-07-30"
+    },
+    "https://www.episcopado.org/docs/2666/CELAM.-Mons.-Jorge-Eduardo-Lozano-designado-Secretario-General-del-CELAM.-06112020.pdf": {
+      "refId": "episcopado-lozano",
+      "archiveUrl": "https://web.archive.org/web/20260803100601/https://episcopado.org/assetsweb/cont/2666/CELAM.-Mons.-Jorge-Eduardo-Lozano-designado-Secretario-General-del-CELAM.-06112020.pdf",
+      "timestamp": "20260803100601",
+      "checkedAt": "2026-08-03"
     },
     "https://www.vatican.va/content/benedict-xvi/en/speeches/2007/may/documents/hf_ben-xvi_spe_20070513_conference-aparecida.html": {
       "refId": "vatican-aparecida",

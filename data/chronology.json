@@ -544,78 +544,79 @@
       "id": "celam-presidencia",
       "title": "CELAM — Presidencia",
       "url": "https://celam.org/presidencia/",
-      "publisher": "CELAM (official)",
-      "type": "official-site"
+      "publisher": "CELAM",
+      "type": "official"
     },
     {
       "id": "celam-secretaria",
       "title": "CELAM — Secretaría General",
       "url": "https://celam.org/secretaria-general/",
-      "publisher": "CELAM (official)",
-      "type": "official-site"
+      "publisher": "CELAM",
+      "type": "official"
     },
     {
       "id": "celam-renovacion",
       "title": "CELAM — Proceso de renovación y reestructuración",
       "url": "https://celam.org/proceso-de-renovacion-y-reestructuracion/",
-      "publisher": "CELAM (official)",
-      "type": "official-site"
+      "publisher": "CELAM",
+      "type": "official"
     },
     {
       "id": "cebitepal",
       "title": "CEBITEPAL — Nosotros (institutional lineage)",
       "url": "https://cebitepal.celam.org/nosotros/",
-      "publisher": "CELAM/CEBITEPAL (official)",
-      "type": "official-site"
+      "publisher": "CELAM/CEBITEPAL",
+      "type": "official"
     },
     {
       "id": "prensacelam-renovacion",
       "title": "Documento de renovación y reestructuración del CELAM (October 2021)",
       "url": "https://prensacelam.org/2021/10/02/documento-de-renovacion-y-reestructuracion-del-celam-un-proceso-permanente",
-      "publisher": "Prensa CELAM (official)",
-      "type": "official-site"
+      "publisher": "Prensa CELAM",
+      "type": "official"
     },
     {
       "id": "vatican-bogota",
       "title": "Paul VI — Apostolic journey to Bogotá (1968)",
       "url": "https://www.vatican.va/content/paul-vi/en/travels/documents/bogota.html",
       "publisher": "Holy See (vatican.va)",
-      "type": "primary"
+      "type": "official"
     },
     {
       "id": "vatican-puebla",
       "title": "John Paul II — Opening address at Puebla (28 January 1979)",
       "url": "https://www.vatican.va/content/john-paul-ii/en/speeches/1979/january/documents/hf_jp-ii_spe_19790128_messico-puebla-episc-latam.html",
       "publisher": "Holy See (vatican.va)",
-      "type": "primary"
+      "type": "official"
     },
     {
       "id": "vatican-santodomingo",
       "title": "John Paul II — Apostolic journey to Santo Domingo (1992)",
       "url": "https://www.vatican.va/content/john-paul-ii/en/travels/1992/travels/documents/trav_santo-domingo-1992.html",
       "publisher": "Holy See (vatican.va)",
-      "type": "primary"
+      "type": "official"
     },
     {
       "id": "vatican-aparecida",
       "title": "Benedict XVI — Inaugural session of Aparecida (13 May 2007)",
       "url": "https://www.vatican.va/content/benedict-xvi/en/speeches/2007/may/documents/hf_ben-xvi_spe_20070513_conference-aparecida.html",
       "publisher": "Holy See (vatican.va)",
-      "type": "primary"
+      "type": "official"
     },
     {
       "id": "aparecida-doc",
       "title": "Aparecida concluding document (PDF)",
       "url": "https://www.americalatina.va/content/dam/americalatina/Documents/12)%20Aparecida%202007.pdf",
       "publisher": "Pontifical Commission for Latin America",
-      "type": "primary"
+      "type": "official"
     },
     {
       "id": "dhial",
       "title": "CELAM — DHIAL dictionary entry (useful but partly unreliable: its presidents list omits Quarracino)",
       "url": "https://www.dhial.org/diccionario/index.php/CONSEJO_EPISCOPAL_LATINOAMERICANO_(CELAM)",
-      "publisher": "DHIAL (labeled: content partly defective)",
-      "type": "encyclopedia"
+      "publisher": "DHIAL",
+      "type": "encyclopedia",
+      "publisherNote": "labeled: content partly defective"
     },
     {
       "id": "encyclopedia-celam",
@@ -635,7 +636,7 @@
       "id": "scielo-celam",
       "title": "Academic history of CELAM and the Sucre turning point (SciELO)",
       "url": "https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-92732018000100095",
-      "publisher": "SciELO (academic)",
+      "publisher": "SciELO",
       "type": "academic"
     },
     {
@@ -643,21 +644,21 @@
       "title": "CELAM bishops elect new president for 2023–2027 (Spengler)",
       "url": "https://www.vaticannews.va/en/church/news/2023-05/celam-bishops-elect-new-president-for-the-four-year-term-2023-20.html",
       "publisher": "Vatican News",
-      "type": "official-site"
+      "type": "news"
     },
     {
       "id": "vaticannews-asamblea",
       "title": "CELAM entrusts the renovation process and the Ecclesial Assembly (2021)",
       "url": "https://www.vaticannews.va/es/iglesia/news/2021-07/celam-encomienda-proceso-renovacion-asamblea-eclesial-virgen.html",
       "publisher": "Vatican News",
-      "type": "official-site"
+      "type": "news"
     },
     {
       "id": "vaticannews-leo",
       "title": "Leo XIV receives the CELAM presidency (15 May 2025)",
       "url": "https://www.vaticannews.va/es/papa/news/2025-05/el-papa-leon-xiv-recibe-la-presidencia-del-celam.html",
       "publisher": "Vatican News",
-      "type": "official-site"
+      "type": "news"
     },
     {
       "id": "consolata-estatutos",
@@ -684,8 +685,9 @@
       "id": "episcopado-lozano",
       "title": "Mons. Jorge Eduardo Lozano designated CELAM secretary general (6 November 2020, PDF)",
       "url": "https://www.episcopado.org/docs/2666/CELAM.-Mons.-Jorge-Eduardo-Lozano-designado-Secretario-General-del-CELAM.-06112020.pdf",
-      "publisher": "Episcopado (primary)",
-      "type": "primary"
+      "publisher": "Episcopado",
+      "type": "official",
+      "publisherNote": "primary institutional record"
     }
   ]
 }

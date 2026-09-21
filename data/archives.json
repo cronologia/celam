@@ -1,6 +1,6 @@
 {
   "generatedBy": "scripts/archive-refs.js",
-  "updatedAt": "2026-09-14",
+  "updatedAt": "2026-09-21",
   "snapshots": {
     "https://cebitepal.celam.org/nosotros/": {
       "refId": "cebitepal",
@@ -97,6 +97,12 @@
       "archiveUrl": "https://web.archive.org/web/20260803100601/https://episcopado.org/assetsweb/cont/2666/CELAM.-Mons.-Jorge-Eduardo-Lozano-designado-Secretario-General-del-CELAM.-06112020.pdf",
       "timestamp": "20260803100601",
       "checkedAt": "2026-08-03"
+    },
+    "https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-92732018000100095": {
+      "refId": "scielo-celam",
+      "archiveUrl": "https://web.archive.org/web/20260914124329/https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-92732018000100095",
+      "timestamp": "20260914124329",
+      "checkedAt": "2026-09-21"
     },
     "https://www.vatican.va/content/benedict-xvi/en/speeches/2007/may/documents/hf_ben-xvi_spe_20070513_conference-aparecida.html": {
       "refId": "vatican-aparecida",

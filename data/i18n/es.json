@@ -2,9 +2,12 @@
   "_meta": {
     "targetLang": "es",
     "generatedBy": "LLM translation (Claude); English is authoritative (core#9). Attributed characterizations keep their hedges; statute quotations are translations of the English rendering, not restorations of the original wording.",
-    "keying": "exact English source string from data/chronology.json"
+    "keying": "exact English source string from data/chronology.json",
+    "coverage": "115/115"
   },
   "strings": {
+    "1958": "1958",
+    "1959": "1959",
     "1955 — petitioned by the I General Conference in Rio de Janeiro (25 July – 4 August, convoked by Pius XII) and approved by the pope that autumn, formally on 2 November 1955; sources differ on the exact approval sequence.": "1955 — solicitado por la I Conferencia General en Río de Janeiro (25 de julio – 4 de agosto, convocada por Pío XII) y aprobado por el papa ese otoño, formalmente el 2 de noviembre de 1955; las fuentes difieren sobre la secuencia exacta de aprobación.",
     "40th Assembly — the 70th anniversary": "40.ª Asamblea — el 70.º aniversario",
     "Aguadilla, Puerto Rico": "Aguadilla, Puerto Rico",
@@ -116,6 +119,7 @@
     "What it is": "Qué es",
     "Work-in-progress dataset compiled from public sources. Institutional dates that sources dispute (early presidency terms, the 1955 approval sequence) are flagged with a ? mark and the disagreement recorded; characterizations of CELAM's authority are attributed to its statutes; interpretation disputes are cross-referenced to the tl project rather than argued here. Corrections against primary sources are welcome.": "Dataset en elaboración, compilado de fuentes públicas. Las fechas institucionales que las fuentes disputan (los primeros períodos presidenciales, la secuencia de aprobación de 1955) llevan una marca ? y el desacuerdo queda registrado; las caracterizaciones de la autoridad del CELAM se atribuyen a sus estatutos; las disputas de interpretación se remiten al proyecto tl en lugar de discutirse aquí. Las correcciones contra fuentes primarias son bienvenidas.",
     "labeled: content partly defective": "señalado: contenido parcialmente defectuoso",
-    "primary institutional record": "registro institucional primario"
+    "primary institutional record": "registro institucional primario",
+    "1974 / renamed 2014": "1974 / renombrado en 2014"
   }
 }

@@ -2,9 +2,12 @@
   "_meta": {
     "targetLang": "pt",
     "generatedBy": "LLM translation (Claude); English is authoritative (core#9). Attributed characterizations keep their hedges; statute quotations are translations of the English rendering, not restorations of the original wording.",
-    "keying": "exact English source string from data/chronology.json"
+    "keying": "exact English source string from data/chronology.json",
+    "coverage": "115/115"
   },
   "strings": {
+    "1958": "1958",
+    "1959": "1959",
     "1955 — petitioned by the I General Conference in Rio de Janeiro (25 July – 4 August, convoked by Pius XII) and approved by the pope that autumn, formally on 2 November 1955; sources differ on the exact approval sequence.": "1955 — solicitado pela I Conferência Geral no Rio de Janeiro (25 de julho – 4 de agosto, convocada por Pio XII) e aprovado pelo papa naquele outono, formalmente em 2 de novembro de 1955; as fontes divergem sobre a sequência exata de aprovação.",
     "40th Assembly — the 70th anniversary": "40.ª Assembleia — o 70.º aniversário",
     "Aguadilla, Puerto Rico": "Aguadilla, Porto Rico",
@@ -116,6 +119,7 @@
     "What it is": "O que é",
     "Work-in-progress dataset compiled from public sources. Institutional dates that sources dispute (early presidency terms, the 1955 approval sequence) are flagged with a ? mark and the disagreement recorded; characterizations of CELAM's authority are attributed to its statutes; interpretation disputes are cross-referenced to the tl project rather than argued here. Corrections against primary sources are welcome.": "Dataset em elaboração, compilado de fontes públicas. As datas institucionais disputadas pelas fontes (os primeiros mandatos presidenciais, a sequência de aprovação de 1955) levam uma marca ? e o desacordo fica registrado; as caracterizações da autoridade do CELAM são atribuídas a seus estatutos; as disputas de interpretação são remetidas ao projeto tl em vez de discutidas aqui. Correções contra fontes primárias são bem-vindas.",
     "labeled: content partly defective": "rotulado: conteúdo parcialmente defeituoso",
-    "primary institutional record": "registro institucional primário"
+    "primary institutional record": "registro institucional primário",
+    "1974 / renamed 2014": "1974 / renomeado em 2014"
   }
 }
